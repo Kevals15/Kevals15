@@ -24,7 +24,7 @@
   <a href="https://linkedin.com/in/keval-shah1507" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="shahkeval01507@gmail.com" target="blank">
+  <a href="mailto:shahkeval01507@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
   </a>
    <a href="https://leetcode.com/u/keval_1507/" target="blank">
