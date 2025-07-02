@@ -27,11 +27,9 @@
   <a href="shahkeval01507@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
   </a>
-
    <a href="https://leetcode.com/u/keval_1507/" target="blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" alt="Leetcode" height="40" width="40" />
   </a>
-  
 </p>
 
 <div align = "center">
